@@ -15,7 +15,7 @@
                 "*.ps1": "PowerShell Launch Script",
                 "*.js": "Node Launch Program",
                 "*.php": "PHP Launch currently open script",
-                "*/arduino/*.cpp": "Arduino", // Differentiate Arduino C++ project from classic C++ project
+                "*.ino": "Arduino",
                 "*.java": "Launch Java Program",
                 "*.html": "Launch Firefox" // My preferred browser
             }
